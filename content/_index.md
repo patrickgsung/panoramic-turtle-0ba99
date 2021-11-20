@@ -63,6 +63,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    reviews: []
+    type: section_reviews
   - section_id: reviews
     type: section_reviews
     background: white
